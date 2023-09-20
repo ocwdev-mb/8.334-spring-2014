@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ]
+  ],
+  "legacy_uid": "18ba7dfe-f4f4-a493-50c0-f95de63d0ec6",
+  "instructors": {
+    "content": [
+      "5ca75388-b83e-6c39-f97d-8f49f7f012b4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "56728480-01bb-b171-070b-bbc08cbb6af6",
+    "website": "8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014"
+  },
+  "course_title": "Statistical Mechanics II: Statistical Physics of Fields",
+  "course_description": "This is the second term in a two-semester course on statistical mechanics. Basic principles are examined in this class, such as the laws of thermodynamics and the concepts of temperature, work, heat, and entropy. Topics from modern statistical mechanics are also explored, including the hydrodynamic limit and classical field theories.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.334",
+  "course_image_thumbnail": {
+    "content": "60faaf2d-43d4-1521-b179-746a6f9cd5c2",
+    "website": "8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Lecture Videos",
+    "Instructor Insights"
+  ],
+  "site_uid": "9c997acf-6fc9-4f8d-8c6b-f8f1b82ba854",
+  "site_short_id": "8.334-spring-2014",
+  "title": "Course Metadata"
+}
